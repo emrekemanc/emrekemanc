@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Emre Kemancı 👋</h1>
-
 <p align="center">
   iOS Developer | Swift Enthusiast 🍏 | Clean Architecture Advocate
 </p>
-
+ <img src="https://github.com/user-attachments/assets/27621e8f-f919-42cb-81b2-1100b654ba24"/>
 ---
 
 ## 💬 About Me
