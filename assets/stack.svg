@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="324" viewBox="0 0 840 324" role="img" aria-label="Tech stack: architecture, backend, databases, mobile, testing and tools">
+<title>Tech stack: architecture, backend, databases, mobile, testing and tools</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#111a2e"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="839" height="323" rx="16" fill="url(#bg)" stroke="#22304d"/>
+<style>
+  .lab { font: 700 11px Helvetica, Arial, 'Liberation Sans', sans-serif; letter-spacing: 1.2px; }
+  .chip { font: 500 13px Helvetica, Arial, 'Liberation Sans', sans-serif; fill: #e6edf3; }
+  .in { animation: in .6s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style>
+<g class="in" style="animation-delay:0.00s"><circle cx="35" cy="47.0" r="4" fill="#a78bfa"/><text class="lab" x="48" y="51.0" fill="#a78bfa">ARCHITECTURE</text></g>
+<g class="in" style="animation-delay:0.15s"><rect x="200.0" y="34" width="138.6" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="269.3" y="51.5" text-anchor="middle">Clean Architecture</text></g>
+<g class="in" style="animation-delay:0.17s"><rect x="346.6" y="34" width="164.6" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="428.9" y="51.5" text-anchor="middle">Domain-Driven Design</text></g>
+<g class="in" style="animation-delay:0.20s"><rect x="519.2" y="34" width="67.3" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="552.9" y="51.5" text-anchor="middle">MVVM</text></g>
+<g class="in" style="animation-delay:0.23s"><rect x="594.5" y="34" width="104.9" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="647.0" y="51.5" text-anchor="middle">Feature-First</text></g>
+<g class="in" style="animation-delay:0.25s"><rect x="200.0" y="68" width="122.5" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="261.3" y="85.5" text-anchor="middle">Modular Design</text></g>
+<g class="in" style="animation-delay:0.28s"><rect x="330.5" y="68" width="67.4" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".45"/><text class="chip" x="364.2" y="85.5" text-anchor="middle">SOLID</text></g>
+<line x1="30" x2="810" y1="101.0" y2="101.0" stroke="#22304d" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.12s"><circle cx="35" cy="121.0" r="4" fill="#38bdf8"/><text class="lab" x="48" y="125.0" fill="#38bdf8">BACKEND &amp; API</text></g>
+<g class="in" style="animation-delay:0.42s"><rect x="200.0" y="108" width="43.6" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="221.8" y="125.5" text-anchor="middle">C#</text></g>
+<g class="in" style="animation-delay:0.45s"><rect x="251.6" y="108" width="57.4" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="280.3" y="125.5" text-anchor="middle">.NET</text></g>
+<g class="in" style="animation-delay:0.47s"><rect x="317.0" y="108" width="116.6" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="375.3" y="125.5" text-anchor="middle">ASP.NET Core</text></g>
+<g class="in" style="animation-delay:0.49s"><rect x="441.6" y="108" width="54.3" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="468.8" y="125.5" text-anchor="middle">PHP</text></g>
+<g class="in" style="animation-delay:0.52s"><rect x="504.0" y="108" width="71.2" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="539.6" y="125.5" text-anchor="middle">Laravel</text></g>
+<g class="in" style="animation-delay:0.55s"><rect x="583.2" y="108" width="70.4" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="618.4" y="125.5" text-anchor="middle">NestJS</text></g>
+<g class="in" style="animation-delay:0.57s"><rect x="661.6" y="108" width="87.8" height="26" rx="13.0" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".45"/><text class="chip" x="705.5" y="125.5" text-anchor="middle">REST API</text></g>
+<line x1="30" x2="810" y1="141.0" y2="141.0" stroke="#22304d" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.24s"><circle cx="35" cy="161.0" r="4" fill="#34d399"/><text class="lab" x="48" y="165.0" fill="#34d399">DATABASES</text></g>
+<g class="in" style="animation-delay:0.72s"><rect x="200.0" y="148" width="101.1" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="250.5" y="165.5" text-anchor="middle">PostgreSQL</text></g>
+<g class="in" style="animation-delay:0.74s"><rect x="309.1" y="148" width="71.9" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="345.0" y="165.5" text-anchor="middle">MySQL</text></g>
+<g class="in" style="animation-delay:0.77s"><rect x="389.0" y="148" width="68.1" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="423.1" y="165.5" text-anchor="middle">SQLite</text></g>
+<g class="in" style="animation-delay:0.79s"><rect x="465.1" y="148" width="79.6" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="505.0" y="165.5" text-anchor="middle">Firebase</text></g>
+<g class="in" style="animation-delay:0.82s"><rect x="552.8" y="148" width="88.1" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="596.8" y="165.5" text-anchor="middle">Supabase</text></g>
+<g class="in" style="animation-delay:0.84s"><rect x="648.8" y="148" width="88.8" height="26" rx="13.0" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/><text class="chip" x="693.2" y="165.5" text-anchor="middle">Core Data</text></g>
+<line x1="30" x2="810" y1="181.0" y2="181.0" stroke="#22304d" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.36s"><circle cx="35" cy="201.0" r="4" fill="#f472b6"/><text class="lab" x="48" y="205.0" fill="#f472b6">MOBILE</text></g>
+<g class="in" style="animation-delay:0.99s"><rect x="200.0" y="188" width="55.9" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="227.9" y="205.5" text-anchor="middle">Swift</text></g>
+<g class="in" style="animation-delay:1.01s"><rect x="263.9" y="188" width="69.6" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="298.7" y="205.5" text-anchor="middle">SwiftUI</text></g>
+<g class="in" style="animation-delay:1.04s"><rect x="341.5" y="188" width="55.9" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="369.4" y="205.5" text-anchor="middle">UIKit</text></g>
+<g class="in" style="animation-delay:1.06s"><rect x="405.4" y="188" width="65.1" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="437.9" y="205.5" text-anchor="middle">Flutter</text></g>
+<g class="in" style="animation-delay:1.08s"><rect x="478.4" y="188" width="52.0" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="504.4" y="205.5" text-anchor="middle">Dart</text></g>
+<g class="in" style="animation-delay:1.11s"><rect x="538.5" y="188" width="60.5" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="568.7" y="205.5" text-anchor="middle">Kotlin</text></g>
+<g class="in" style="animation-delay:1.14s"><rect x="606.9" y="188" width="55.1" height="26" rx="13.0" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".45"/><text class="chip" x="634.5" y="205.5" text-anchor="middle">Java</text></g>
+<line x1="30" x2="810" y1="221.0" y2="221.0" stroke="#22304d" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.48s"><circle cx="35" cy="241.0" r="4" fill="#fbbf24"/><text class="lab" x="48" y="245.0" fill="#fbbf24">TESTING &amp; DEVOPS</text></g>
+<g class="in" style="animation-delay:1.28s"><rect x="200.0" y="228" width="97.7" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="248.9" y="245.5" text-anchor="middle">Unit Testing</text></g>
+<g class="in" style="animation-delay:1.31s"><rect x="305.7" y="228" width="116.1" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="363.8" y="245.5" text-anchor="middle">Widget Testing</text></g>
+<g class="in" style="animation-delay:1.33s"><rect x="429.9" y="228" width="117.1" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="488.5" y="245.5" text-anchor="middle">GitHub Actions</text></g>
+<g class="in" style="animation-delay:1.35s"><rect x="555.0" y="228" width="78.9" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="594.5" y="245.5" text-anchor="middle">Fastlane</text></g>
+<g class="in" style="animation-delay:1.38s"><rect x="641.9" y="228" width="69.6" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="676.7" y="245.5" text-anchor="middle">Docker</text></g>
+<g class="in" style="animation-delay:1.41s"><rect x="719.5" y="228" width="65.8" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text class="chip" x="752.4" y="245.5" text-anchor="middle">Sentry</text></g>
+<line x1="30" x2="810" y1="261.0" y2="261.0" stroke="#22304d" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.60s"><circle cx="35" cy="281.0" r="4" fill="#fb923c"/><text class="lab" x="48" y="285.0" fill="#fb923c">TOOLS &amp; PROCESS</text></g>
+<g class="in" style="animation-delay:1.55s"><rect x="200.0" y="268" width="43.6" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="221.8" y="285.5" text-anchor="middle">Git</text></g>
+<g class="in" style="animation-delay:1.58s"><rect x="251.6" y="268" width="80.4" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="291.8" y="285.5" text-anchor="middle">Postman</text></g>
+<g class="in" style="animation-delay:1.60s"><rect x="340.0" y="268" width="79.6" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="379.8" y="285.5" text-anchor="middle">DBeaver</text></g>
+<g class="in" style="animation-delay:1.62s"><rect x="427.6" y="268" width="48.2" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="451.7" y="285.5" text-anchor="middle">Jira</text></g>
+<g class="in" style="animation-delay:1.65s"><rect x="483.8" y="268" width="56.6" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="512.1" y="285.5" text-anchor="middle">Agile</text></g>
+<g class="in" style="animation-delay:1.68s"><rect x="548.4" y="268" width="65.8" height="26" rx="13.0" fill="#fb923c" fill-opacity=".1" stroke="#fb923c" stroke-opacity=".45"/><text class="chip" x="581.4" y="285.5" text-anchor="middle">Scrum</text></g>
+</svg>
