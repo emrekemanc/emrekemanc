@@ -30,20 +30,12 @@ What I care about most is how code is structured: clear layers, small testable p
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrekemanc&show_icons=true&include_all_commits=true&bg_color=0b1220&title_color=38bdf8&text_color=e6edf3&icon_color=a78bfa&border_color=22304d&border_radius=16" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekemanc&layout=compact&langs_count=6&bg_color=0b1220&title_color=38bdf8&text_color=e6edf3&border_color=22304d&border_radius=16" height="165" alt="Top languages"/>
+  <img src="./assets/stats.svg" height="165" alt="GitHub stats"/>
+  <img src="./assets/top-langs.svg" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emrekemanc&background=0b1220&border=22304d&ring=38bdf8&fire=a78bfa&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=38bdf8&sideLabels=8b98b0&dates=8b98b0&border_radius=16" width="80%" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrekemanc&bg_color=0b1220&color=8b98b0&title_color=38bdf8&line=38bdf8&point=a78bfa&area=true&area_color=38bdf8&radius=16&hide_border=false&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emrekemanc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies"/>
 </p>
 
 <p align="center">
